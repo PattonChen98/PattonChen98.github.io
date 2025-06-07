@@ -1,15 +1,17 @@
 ---
 layout: article
-title: About
+title: Patton Chen
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <p>I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School.</p>
+    <h3 style="margin-bottom: 20px; color: #333;">Welcome to my website!</h3>
     
-    <p>My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.</p>
+    <p style="text-align: justify;">I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School.</p>
     
-    <p>Before Harvard, I earned an M.A. in Economics at Duke University and served as a research assistant to Professor Bocar Ba and Professor Tony Cheng on policing projects, and to Professor Jonathan Petkun on judicial retirement.</p>
+    <p style="text-align: justify;">My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.</p>
+    
+    <p style="text-align: justify;">Before Harvard, I earned an M.A. in Economics at Duke University and served as a research assistant to Professor Bocar Ba and Professor Tony Cheng on policing projects, and to Professor Jonathan Petkun on judicial retirement.</p>
   </div>
   
   <div style="flex-shrink: 0;">
