@@ -26,7 +26,11 @@ title: Patton Chen
   
 <div class="hero" style="background-color:#f7f7f7; margin-top: 40px; padding: 20px; border-radius: 5px; text-align: center;">
   <div class="hero__content">
-    <h4>Contact</h4>
-    <p style="font-size: medium;"><b>E-mail</b>: pattonchen@fas.harvard.edu<br></p>
+   <h4>Contact & Links</h4>
+    <p style="font-size: medium;">
+      <b>E-mail</b>: pattonchen@fas.harvard.edu<br>
+      <b>CV</b>: <a href="CV_may 2025.pdf" target="_blank">Download PDF</a><br>
+      <b>Google Scholar</b>: <a href="https://scholar.google.com/citations?user=qM38HGMAAAAJ&hl=en" target="_blank">View Profile</a>
+    </p>
   </div>
 </div>
