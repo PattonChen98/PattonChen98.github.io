@@ -23,4 +23,10 @@ title: Patton Chen
 - **Ph.D** in Public Policy (Economics Track), Harvard University, 2025-Present
 - **M.A.** in Economics, Duke University, 2023-2024
 - **B.A.** in Economics, History Minor, University of Michigan
-
+  
+<div class="hero" style="background-color:#f7f7f7; margin-top: 40px; padding: 20px; border-radius: 5px; text-align: center;">
+  <div class="hero__content">
+    <h4>Contact</h4>
+    <p style="font-size: medium;"><b>E-mail</b>: pattonchen@fas.harvard.edu<br></p>
+  </div>
+</div>
