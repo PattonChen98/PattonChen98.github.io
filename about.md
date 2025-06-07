@@ -4,7 +4,7 @@ titles: About
 ---
 
 
-<a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
+<img src="image.jpg" height="auto" width="200" style="border-radius:3%; float: right" alt="Patton Chen">
 
 I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School. 
 
@@ -31,15 +31,6 @@ Before Harvard, I earned an M.A. in Economics at Duke University and served as a
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
     <h4>Contact</h4>
-    <p style="font-size: medium;"><b>E-mail</b>: Yue.Li@xjtlu.edu.cn<br>
-      <b>Phone</b>: +86 (0)571 81883223<br>
-      <b>Address</b>:<br>
-      SD457, Science Building<br>
-      Xi'an Jiaotong-Liverpool University<br>
-      Suzhou Dushu Lake Science and Education Innovation District<br>
-      Suzhou Industrial Park<br>
-      Suzhou, China<br>
-      215123
-    </p>
+    <p style="font-size: medium;"><b>E-mail</b>: pattonchen@fas.harvard.edu<br>
   </div>
 </div>
