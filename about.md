@@ -1,36 +1,30 @@
 ---
 layout: article
-titles: About
+title: About
 ---
 
-
-<img src="image.jpg" height="auto" width="200" style="border-radius:3%; float: right" alt="Patton Chen">
-
-I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School. 
-
-My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.
-
-Before Harvard, I earned an M.A. in Economics at Duke University and served as a research assistant to Professor Bocar Ba and Professor Tony Cheng on policing projects, and to Professor Jonathan Petkun on judicial retirement.
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <p>I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School.</p>
+    
+    <p>My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.</p>
+    
+    <p>Before Harvard, I earned an M.A. in Economics at Duke University and served as a research assistant to Professor Bocar Ba and Professor Tony Cheng on policing projects, and to Professor Jonathan Petkun on judicial retirement.</p>
+  </div>
+  
+  <div style="flex-shrink: 0;">
+    <img src="image.jpg" height="auto" width="200" style="border-radius: 10px;" alt="Patton Chen">
+  </div>
+</div>
 
 ## Education
 - **Ph.D** in Public Policy (Economics Track), Harvard University, 2025-Present
 - **M.A.** in Economics, Duke University, 2023-2024
 - **B.A.** in Economics, History Minor, University of Michigan
-<!--
-## Research Experience
-- **Research Assistant** 
 
-## Teaching
-- **xx**
-
-
-## Honours and Awards
-- **xx**, Suzhou City, 2022
-
--->
-<div class="hero" style="background-color:#f7f7f7; ">
+<div class="hero" style="background-color:#f7f7f7; margin-top: 40px; padding: 20px; border-radius: 5px;">
   <div class="hero__content">
     <h4>Contact</h4>
-    <p style="font-size: medium;"><b>E-mail</b>: pattonchen@fas.harvard.edu<br>
+    <p style="font-size: medium;"><b>E-mail</b>: pattonchen@fas.harvard.edu<br></p>
   </div>
 </div>
