@@ -2,35 +2,35 @@
 layout: article
 ---
 
-<!-- Page-scoped styles -->
 <style>
   :root{
-    --link:#0b57d0;   /* paper title/link */
-    --text:#2f2f2f;   /* body/author text */
-    --heading:#1f1f1f;
-    --muted:#6b7280;
+    --link:#0b57d0; --text:#2f2f2f; --heading:#1f1f1f; --muted:#6b7280;
   }
-  #wp-scope { line-height: 1.6; }                 /* no width/margin overrides */
-  #wp-scope h2 { color: var(--heading); margin: 0 0 .75rem; }
+  /* Smaller base + tighter leading */
+  #wp-scope { font-size: 0.95rem; line-height: 1.45; }
 
-  /* Paper block */
-  #wp-scope .paper { margin: 1.25rem 0 1.5rem; }  /* simple spacing only */
+  /* Heading smaller + less margin */
+  #wp-scope h2 { color: var(--heading); font-size: 1.25rem; margin: 0 0 .5rem; }
+
+  /* Paper block: less vertical space */
+  #wp-scope .paper { margin: .6rem 0 .8rem; }
+
+  /* Title slightly smaller */
   #wp-scope .paper-title a{
     color: var(--link);
     text-decoration: none;
     font-weight: 700;
-    font-size: 1.05rem;
+    font-size: 0.9rem;
   }
   #wp-scope .paper-title a:hover,
   #wp-scope .paper-title a:focus { text-decoration: underline; }
 
-  /* Authors: same font & color as body; linked names don’t turn blue */
-  #wp-scope .authors { margin-top: .25rem; color: var(--text); }
+  /* Authors: compact + a bit bold */
+  #wp-scope .authors { margin-top: .15rem; color: var(--text); font-weight: 600; font-size: .9rem; }
   #wp-scope .authors a { color: inherit; text-decoration: none; }
-  #wp-scope .authors { font-weight: 600; }
 
-  /* Meta line */
-  #wp-scope .meta { margin-top: .2rem; color: var(--muted); font-size: .95rem; }
+  /* Meta smaller + tight */
+  #wp-scope .meta { margin-top: .1rem; color: var(--muted); font-size: .85rem; }
 </style>
 
 <div id="wp-scope" class="page__content">
