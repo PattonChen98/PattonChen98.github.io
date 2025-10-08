@@ -11,7 +11,6 @@ title: Patton Chen
     
     <p style="text-align: justify;">My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.</p>
     
-    <p style="text-align: justify;">Before Harvard, I earned an M.A. in Economics at Duke University and served as a research assistant to Professor Bocar Ba and Professor Tony Cheng on policing projects, and to Professor Jonathan Petkun on judicial retirement.</p>
   </div>
   
   <div style="flex-shrink: 0;">
