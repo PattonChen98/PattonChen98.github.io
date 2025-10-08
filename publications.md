@@ -43,9 +43,9 @@ layout: article
       </a>
     </div>
     <div class="authors">
-      with <a href="https://sites.google.com/view/bocarba/" target="_blank" rel="noopener">Bocar Ba</a>,
+     ( with <a href="https://sites.google.com/view/bocarba/" target="_blank" rel="noopener">Bocar Ba</a>,
       <a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a>, and
-      <a href="https://www.justinholz.com/home" target="_blank" rel="noopener">Justin Holz</a>
+      <a href="https://www.justinholz.com/home" target="_blank" rel="noopener">Justin Holz )</a>
     </div>
     <div class="meta">Draft, October 2025</div>
   </div>
