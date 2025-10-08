@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Research
-permalink: /research/
 ---
 
 <!-- Page-scoped styles -->
