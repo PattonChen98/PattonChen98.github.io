@@ -1,6 +1,5 @@
 ---
 layout: article
-title: Patton Chen
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
