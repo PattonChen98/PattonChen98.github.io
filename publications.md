@@ -1,6 +1,5 @@
 ---
 layout: article
-title: Research
 ---
 
 <!-- Page-scoped styles -->
