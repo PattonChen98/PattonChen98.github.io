@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Publications
+titles: Research
 # aside:
 #   toc: true
 ---
