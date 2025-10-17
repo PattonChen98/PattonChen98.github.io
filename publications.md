@@ -35,10 +35,9 @@ layout: article
 
 <div id="wp-scope" class="page__content">
   <h2>Working Papers</h2>
-
   <div class="paper">
     <div class="paper-title">
-      <a href="https://www.dropbox.com/scl/fi/63wwagdlh4epf8dwnfjy5/HEART_wp_Oct2025.pdf?rlkey=nh1czj617jl978v2a1y6g5mo5&e=1&dl=0" target="_blank" rel="noopener">
+      <a href="https://www.nber.org/papers/w34344" target="_blank" rel="noopener">
         What is the Best Response? Examining the Impact of Police and Their Alternatives
       </a>
     </div>
@@ -47,8 +46,7 @@ layout: article
       <a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a>, and
       <a href="https://www.justinholz.com/home" target="_blank" rel="noopener">Justin Holz </a>)
     </div>
-    <div class="meta">Draft, October 2025</div>
+    <div class="meta">NBER Working Paper No. 34344, October 2025</div>
   </div>
-
   <!-- Duplicate .paper blocks as needed -->
 </div>
