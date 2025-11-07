@@ -43,7 +43,7 @@ layout: article
     </div>
     <div class="authors">
      ( with <a href="https://sites.google.com/view/bocarba/" target="_blank" rel="noopener">Bocar Ba</a>,
-      <a href="https://marthaeies.com/" target="_blank" rel="noopener">Marhta Eies</a>, 
+      <a href="https://marthaeies.com/" target="_blank" rel="noopener">Martha Eies</a>, 
       <a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a>, and
       <a href="https://www.justinholz.com/home" target="_blank" rel="noopener">Justin Holz </a>)
     </div>
