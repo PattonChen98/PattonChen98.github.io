@@ -31,6 +31,13 @@ layout: article
 
   /* Meta smaller + tight */
   #wp-scope .meta { margin-top: .1rem; color: var(--muted); font-size: .85rem; }
+
+  #wp-scope .meta strong,
+  #wp-scope .meta strong em {
+    color: var(--text);
+    font-weight: 700;
+    font-style: italic;
+  }
 </style>
 
 <div id="wp-scope" class="page__content">
