@@ -47,7 +47,9 @@ layout: article
       <a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a>, and
       <a href="https://www.justinholz.com/home" target="_blank" rel="noopener">Justin Holz </a>)
     </div>
-    <div class="meta">NBER Working Paper No. 34344, October 2025</div>
+<div class="meta">
+    Revise &amp; Resubmit at <strong><em>American Economic Review</em></strong>
+</div>
   </div>
   <!-- Duplicate .paper blocks as needed -->
 </div>
