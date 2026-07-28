@@ -1,9 +1,8 @@
 ---
-layout: article
-titles: More
-# aside:
-#   toc: true
+layout: personal
+title: More
+nav: more
+description: More information from Patton Chen.
 ---
 
-
-coming soon!
+<div class="empty-page" aria-label="More"></div>

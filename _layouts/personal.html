@@ -10,16 +10,14 @@
   </head>
   <body>
     <header class="site-header">
-      <div class="site-shell site-header__inner">
-        <a class="site-brand" href="{{ '/about.html' | relative_url }}" aria-label="Patton Chen home">
-          <span class="site-brand__name">Patton Chen</span>
-          <span class="site-brand__role">Public Policy · Economics</span>
-        </a>
+      <div class="site-shell">
+        <a class="site-title" href="{{ '/about.html' | relative_url }}">Patton Chen</a>
         <nav class="site-nav" aria-label="Primary navigation">
-          <a href="{{ '/about.html' | relative_url }}" aria-current="page">Home</a>
-          <a href="#research">Research</a>
-          <a href="{{ '/CV%20may%202025.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
-          <a href="#contact">Contact</a>
+          <a href="{{ '/about.html' | relative_url }}" {% if page.nav == 'home' %}aria-current="page"{% endif %}>Home</a>
+          <a href="{{ '/bio.html' | relative_url }}" {% if page.nav == 'bio' %}aria-current="page"{% endif %}>Bio/CV</a>
+          <a href="{{ '/publications.html' | relative_url }}" {% if page.nav == 'papers' %}aria-current="page"{% endif %}>Papers</a>
+          <a href="{{ '/teaching.html' | relative_url }}" {% if page.nav == 'teaching' %}aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ '/more.html' | relative_url }}" {% if page.nav == 'more' %}aria-current="page"{% endif %}>More</a>
         </nav>
       </div>
     </header>
@@ -27,12 +25,5 @@
     <main class="site-shell page-content">
       {{ content }}
     </main>
-
-    <footer class="site-footer">
-      <div class="site-shell site-footer__inner">
-        <span>© {{ 'now' | date: '%Y' }} Patton Chen</span>
-        <a href="mailto:pattonchen@fas.harvard.edu">pattonchen@fas.harvard.edu</a>
-      </div>
-    </footer>
   </body>
 </html>
