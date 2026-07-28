@@ -16,6 +16,6 @@ description: Working papers and works in progress by Patton Chen.
 
   <article class="paper">
     <h2 class="paper-title">Police and Philanthropy After Protest</h2>
-    <p class="paper-authors"><a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a> and <a href="{{ '/about.html' | relative_url }}">Patton Chen</a></p>
+    <p class="paper-authors">(with <a href="https://www.tonykcheng.com/" target="_blank" rel="noopener">Tony Cheng</a>)</p>
   </article>
 </section>
