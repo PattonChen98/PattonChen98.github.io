@@ -1,24 +1,15 @@
 ---
-<!-- layout: article -->
-<!-- titles: About -->
-redirect_to:
-  - about.html
-#   excerpt_type: html
+layout: none
 ---
-
-<!-- <h1>{{ "Hello World!" }}</h1>
-
-
-<div class="hero hero--dark" style='height: 500px; background-image: url("/assets/home-imyueli.png");'>
-  <div class="hero__content">
-    <h1>{{ "Hello World!" }}</h1>
-    <p>...</p> 
-  </div>
-</div> 
--->
-
-
-<!-- ---
-# articles:
-#   excerpt_type: html
---- -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ '/about.html' | relative_url }}">
+    <link rel="canonical" href="{{ '/about.html' | absolute_url }}">
+    <title>Patton Chen</title>
+  </head>
+  <body>
+    <p><a href="{{ '/about.html' | relative_url }}">Continue to Patton Chen's website.</a></p>
+  </body>
+</html>

@@ -1,34 +1,51 @@
 ---
-layout: article
+layout: personal
+title: Home
+description: Patton Chen is a Ph.D. student in Public Policy at Harvard Kennedy School.
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex: 1;">
-    <h3 style="margin-bottom: 20px; color: #333;">Welcome to my website!</h3>
-    
-    <p style="text-align: justify;">I am a PhD student in Public Policy (Economics Track) at Harvard Kennedy School.</p>
-    
-    <p style="text-align: justify;">My research lies at the intersection of the economics of crime, law & economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police‑alternative programs in the United States.</p>
-    
+<section class="home-hero" aria-labelledby="home-title">
+  <div>
+    <p class="eyebrow">Personal website</p>
+    <h1 id="home-title">Patton Chen</h1>
+    <p class="hero-subtitle">Ph.D. student in Public Policy (Economics Track), Harvard Kennedy School</p>
+    <p class="hero-welcome">Welcome to my website!</p>
   </div>
-  
-  <div style="flex-shrink: 0;">
-    <img src="image.jpg" height="auto" width="200" style="border-radius: 10px;" alt="Patton Chen">
+  <div class="home-hero__image">
+    <img class="profile-photo" src="{{ '/image.jpg' | relative_url }}" alt="Patton Chen">
   </div>
-</div>
+</section>
 
-## Education
-- **Ph.D** in Public Policy (Economics Track), Harvard University, 2025-Present
-- **M.A.** in Economics, Duke University, 2023-2024
-- **B.A.** in Economics, History Minor, University of Michigan, 2021-2023
-  
-<div class="hero" style="background-color:#f7f7f7; margin-top: 40px; padding: 20px; border-radius: 5px; text-align: center;">
-  <div class="hero__content">
-   <h4>Contact & Links</h4>
-    <p style="font-size: medium;">
-      <b>E-mail</b>: pattonchen@fas.harvard.edu<br>
-      <b>CV</b>: <a href="CV may 2025.pdf" target="_blank">Download PDF</a><br>
-      <b>Google Scholar</b>: <a href="https://scholar.google.com/citations?user=qM38HGMAAAAJ&hl=en" target="_blank">View Profile</a>
-    </p>
+<section class="content-grid" aria-label="About Patton Chen">
+  <div id="research">
+    <p class="eyebrow">Research</p>
+    <h2>Research interests</h2>
+    <p>My research lies at the intersection of the economics of crime, law &amp; economics, and political economy. I am especially interested in how social movements, policy design, and institutional incentives generate or mitigate racial disparities in the criminal justice system. A large part of my current agenda examines the political economy of police-alternative programs in the United States.</p>
+
+    <p class="eyebrow education-heading">Education</p>
+    <ul class="education">
+      <li>
+        <span class="education__degree">2025–present</span>
+        <div class="education__school">Harvard University<span>Ph.D. in Public Policy (Economics Track)</span></div>
+      </li>
+      <li>
+        <span class="education__degree">2023–2024</span>
+        <div class="education__school">Duke University<span>M.A. in Economics</span></div>
+      </li>
+      <li>
+        <span class="education__degree">2021–2023</span>
+        <div class="education__school">University of Michigan<span>B.A. in Economics, History Minor</span></div>
+      </li>
+    </ul>
   </div>
-</div>
+
+  <aside class="contact-card" id="contact" aria-labelledby="contact-title">
+    <p class="eyebrow">Get in touch</p>
+    <h2 id="contact-title">Contact &amp; links</h2>
+    <ul class="contact-list">
+      <li><strong>Email</strong><a href="mailto:pattonchen@fas.harvard.edu">pattonchen@fas.harvard.edu</a></li>
+      <li><strong>CV</strong><a href="{{ '/CV%20may%202025.pdf' | relative_url }}" target="_blank" rel="noopener">Download PDF</a></li>
+      <li><strong>Google Scholar</strong><a href="https://scholar.google.com/citations?user=qM38HGMAAAAJ&amp;hl=en" target="_blank" rel="noopener">View profile</a></li>
+    </ul>
+  </aside>
+</section>
